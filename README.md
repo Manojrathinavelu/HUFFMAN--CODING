@@ -80,7 +80,7 @@ for (char, frequency) in freq:
 ```
 ## Output:
 ### Print the characters and its huffmancode
-![Uploading 326323497-2af65667-5700-4d70-b01f-d527c0d412cb.png…]()
+![326323497-2af65667-5700-4d70-b01f-d527c0d412cb](https://github.com/Manojrathinavelu/HUFFMAN--CODING/assets/119560395/edb26f2a-5b12-4c58-8461-41dad1ba7eef)
 
 
 ## Result
